@@ -1,4 +1,9 @@
 
+<img src=https://github.com/user-attachments/assets/da8fa0d8-fd8b-43f6-a584-17efc3bf81d6 width="1080px"><br>
+
+<h2 align="center"> Power Bi project - Business Insights of AtliQ Hardwares using Power Bi, DAX, analyzing key metrics and showcasing significant year-over-year growth. </h2><br>
+
+
 ## Project Objective:
 AtliQ Hardware is rapidly growing company in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions.
 
@@ -9,8 +14,8 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
 
 ## Dashboard Structure:
  
-- **1.** Finance:
-    This page provides a deep dive into financial performance with key metrics and KPIs. This aiding stakeholders in monitoring profitability and cost efficiency.
+ **1. Finance:**
+> This page provides a deep dive into financial performance with key metrics and KPIs. This aiding stakeholders in monitoring profitability and cost efficiency.
     
 -   Metrics:
     Gross Sales
@@ -29,8 +34,8 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
     Market performance analysis.
 
 
-- **2.** Sales:
-    Focused on sales trends and customer dynamics, this page provides insights into what drives revenue growth.
+ **2. Sales:**
+> Focused on sales trends and customer dynamics, this page provides insights into what drives revenue growth.
 
 -   KPIs:
     Net Sales
@@ -42,8 +47,8 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
     Scatter chart for evaluating relationships between gross margin, net sales, and market/customer trends.
 
 
-- **3.** Marketing:
-    The Marketing page evaluates spending efficiency and product promotion outcomes, offering clarity on ROI for campaigns.
+ **3. Marketing:**
+> The Marketing page evaluates spending efficiency and product promotion outcomes, offering clarity on ROI for campaigns.
 
 -   KPIs:
     Operational Expenses
@@ -55,8 +60,8 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
     Segmentation analysis based on product categories
 
 
-- **4.** Supply Chain:
-    This page provides a granular look at supply chain operations, focusing on accuracy and error minimization.
+ **4. Supply Chain:**
+> This page provides a granular look at supply chain operations, focusing on accuracy and error minimization.
 
 -   KPIs:
     Forecast Accuracy (%)
@@ -68,8 +73,8 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
     Trends in forecasting accuracy and net error
 
 
-- **5.** Executive View:
-    The Executive page serves as a high-level summary, offering a bird's-eye view of organizational performance.
+ **5. Executive View:**
+> The Executive page serves as a high-level summary, offering a bird's-eye view of organizational performance.
 
 -   KPIs:
     Forecast Accuracy
@@ -86,19 +91,20 @@ This Power BI project is a comprehensive analytics dashboard designed to provide
 ## Tools & Technologies Used:
 - Power BI: Data visualization and analytics
 - Data Sources: Cleaned and aggregated datasets from Finance, Sales, Marketing, and Supply Chain departments
+- DAX
+- Power Query
+- Advanced Excel
+- Canva and PowerPoint
 
 
 ## Key Insights Delivered:
-- Financial and sales metrics comparison with benchmarks and targets
-- Understanding customer and market trends for better decision-making
-- Assessment of marketing campaign effectiveness
-- Evaluation of supply chain forecasting accuracy and platform-specific performance
-- Holistic executive view to identify business opportunities and risks
+- Financial and sales metrics comparison with benchmarks and targets.
+- Understanding customer and market trends for better decision-making.
+- Assessment of marketing campaign effectiveness.
+- Evaluation of supply chain forecasting accuracy and platform-specific performance.
+- Holistic executive view to identify business opportunities and risks.
 
 
-## Contributions
-This project is a solo effort, and contributions are welcome. If you'd like to suggest improvements or collaborate, please contact me!
-
-
-📧 Contact: sayanb605@gmail.com
+## Support
+📧 Contact: sayanb605@gmail.com <br>
 🌐 Portfolio: https://codebasics.io/portfolio/Sayan-Bera
